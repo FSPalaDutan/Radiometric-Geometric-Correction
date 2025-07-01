@@ -1,0 +1,6 @@
+shifted_exp_2000000.jpg   2.0000     
+shifted_exp_1000000.jpg   1.0000     
+shifted_exp_500000.jpg    0.5000     
+shifted_exp_250000.jpg    0.2500     
+shifted_exp_125000.jpg    0.1250     
+shifted_exp_75000.jpg     0.0750

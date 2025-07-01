@@ -1,0 +1,16 @@
+img_exp1250_ev0.0.jpg	0.001243
+img_exp1250_ev0.0.jpg	0.001243
+img_exp800_ev0.0.jpg	0.000788
+img_exp800_ev0.0.jpg	0.000788
+img_exp400_ev0.0.jpg	0.000394
+img_exp400_ev0.0.jpg	0.000394
+img_exp200_ev0.0.jpg	0.000197
+img_exp200_ev0.0.jpg	0.000197
+img_exp150_ev0.0.jpg	0.000136
+img_exp150_ev0.0.jpg	0.000136
+img_exp100_ev0.0.jpg	0.000091
+img_exp100_ev0.0.jpg	0.000091
+img_exp80_ev0.0.jpg	0.000075
+img_exp80_ev0.0.jpg	0.000075
+img_exp50_ev0.0.jpg	0.000060
+img_exp50_ev0.0.jpg	0.000060

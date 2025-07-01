@@ -1,0 +1,16 @@
+img_exp50_ev0.0.jpg, EV=0.0, Exposure_solicitado=50, Exposure_real=60, Gain_real=1.0
+img_exp80_ev0.0.jpg, EV=0.0, Exposure_solicitado=80, Exposure_real=75, Gain_real=1.0
+img_exp100_ev0.0.jpg, EV=0.0, Exposure_solicitado=100, Exposure_real=91, Gain_real=1.0
+img_exp150_ev0.0.jpg, EV=0.0, Exposure_solicitado=150, Exposure_real=136, Gain_real=1.0
+img_exp200_ev0.0.jpg, EV=0.0, Exposure_solicitado=200, Exposure_real=197, Gain_real=1.0
+img_exp400_ev0.0.jpg, EV=0.0, Exposure_solicitado=400, Exposure_real=394, Gain_real=1.0
+img_exp800_ev0.0.jpg, EV=0.0, Exposure_solicitado=800, Exposure_real=788, Gain_real=1.0
+img_exp1250_ev0.0.jpg, EV=0.0, Exposure_solicitado=1250, Exposure_real=1243, Gain_real=1.0
+img_exp50_ev0.0.jpg, EV=0.0, Exposure_solicitado=50, Exposure_real=60, Gain_real=1.0
+img_exp80_ev0.0.jpg, EV=0.0, Exposure_solicitado=80, Exposure_real=75, Gain_real=1.0
+img_exp100_ev0.0.jpg, EV=0.0, Exposure_solicitado=100, Exposure_real=91, Gain_real=1.0
+img_exp150_ev0.0.jpg, EV=0.0, Exposure_solicitado=150, Exposure_real=136, Gain_real=1.0
+img_exp200_ev0.0.jpg, EV=0.0, Exposure_solicitado=200, Exposure_real=197, Gain_real=1.0
+img_exp400_ev0.0.jpg, EV=0.0, Exposure_solicitado=400, Exposure_real=394, Gain_real=1.0
+img_exp800_ev0.0.jpg, EV=0.0, Exposure_solicitado=800, Exposure_real=788, Gain_real=1.0
+img_exp1250_ev0.0.jpg, EV=0.0, Exposure_solicitado=1250, Exposure_real=1243, Gain_real=1.0
