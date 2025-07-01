@@ -1,0 +1,2 @@
+Parámetros Intrínsecos:
+camera1: 2.32185 2334.41 2339.98 814.698 642.98

@@ -1,0 +1,74 @@
+{
+
+"transformations" : [
+    {
+        "name" : "xiCamBoard",
+        "global" : false,
+        "constant" : false,
+        "prior" : false
+    }
+],
+
+"cameras": [
+  {
+    "name" : "camera1",
+    "type" : "mei",           
+    "constant" : false,
+    "value" : [0.5, 0, 0, 0, 0, 0, 300, 300, 600, 500]  
+  }
+],
+
+"data" : [ 
+    {
+        "type" : "images",
+        "camera" : "camera1",
+        "transform_chain" : [
+            {"name" : "xiCamBoard", "direct" : true}
+        ],
+        "init" : "xiCamBoard",
+        "object" : {
+            "type" : "checkboard",
+            "rows" : 8,
+            "cols" : 6,
+            "size" : 0.03
+        },    
+        "parameters" : [
+            "check_extraction",
+            "show_outliers",
+            "improve_detection",
+            "_do_not_solve_global",
+            "_do_not_solve",
+            "_save_outlire_images"
+        ],
+        "images" : {
+            "prefix" : "/home/frank/Downloads/chessboard_140/",
+            "names" : [
+                "chessboard_001.jpg",
+                "chessboard_002.jpg",
+                "chessboard_003.jpg",
+                "chessboard_004.jpg",
+                "chessboard_005.jpg",
+                "chessboard_006.jpg",
+                "chessboard_007.jpg",
+                "chessboard_008.jpg",
+                "chessboard_009.jpg",
+                "chessboard_010.jpg",
+                "chessboard_011.jpg",
+                "chessboard_012.jpg",
+                "chessboard_013.jpg",
+                "chessboard_014.jpg",
+                "chessboard_015.jpg",
+                "chessboard_016.jpg",
+                "chessboard_017.jpg",
+                "chessboard_018.jpg",
+                "chessboard_019.jpg",
+                "chessboard_020.jpg"     
+            ]
+        }
+    }
+    ]
+}
+
+
+
+
